@@ -1,4 +1,4 @@
-
+# a bank management system to manage bank accounts. In python technology and the database we used is MySQL.
 '''     BANK MANAGEMENT SYSTEM      '''
 import mysql.connector as c
 
